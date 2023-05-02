@@ -1,0 +1,339 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Pritesh Zaver",
+      "email": "pritesh@zaver.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Ben Hoberg",
+      "email": "ben@hoberg.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Akshay Khona",
+      "email": "akshay@khona.com"
+    }
+  ],
+  "playlists": [
+    {
+      "userId": 1,
+      "playlistName": "Old School",
+      "description": "Makes me feel young again",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "playlistName": "Rock",
+      "description": "Keeps you climbing",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "playlistName": "Valentines",
+      "description": "Baby making music",
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "playlistName": "Indian",
+      "description": "Bollywood hits",
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "playlistName": "Dance",
+      "description": "Getting jiggy with it",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "playlistName": "Dance Dance",
+      "description": "Shake that groove thang",
+      "id": 9
+    }
+  ],
+  "playlistSongs": [
+    {
+      "playlistId": 1,
+      "songId": "5LxvwujISqiB8vpRYv887S",
+      "artistName": "The Jackson 5",
+      "songName": "I Want You Back",
+      "songDuration": 176333,
+      "trackUri": "spotify:track:5LxvwujISqiB8vpRYv887S",
+      "id": 55
+    },
+    {
+      "playlistId": 1,
+      "songId": "5uuJruktM9fMdN9Va0DUMl",
+      "artistName": "Wild Cherry",
+      "songName": "Play That Funky Music",
+      "songDuration": 300000,
+      "trackUri": "spotify:track:5uuJruktM9fMdN9Va0DUMl",
+      "id": 56
+    },
+    {
+      "playlistId": 1,
+      "songId": "6Ac4NVYYl2U73QiTt11ZKd",
+      "artistName": "Blue Swede",
+      "songName": "Hooked On A Feeling",
+      "songDuration": 172866,
+      "trackUri": "spotify:track:6Ac4NVYYl2U73QiTt11ZKd",
+      "id": 57
+    },
+    {
+      "playlistId": 1,
+      "songId": "4vO9dmzNRqDhFY3jD1a3P7",
+      "artistName": "Mountain",
+      "songName": "Mississippi Queen",
+      "songDuration": 151293,
+      "trackUri": "spotify:track:4vO9dmzNRqDhFY3jD1a3P7",
+      "id": 58
+    },
+    {
+      "playlistId": 1,
+      "songId": "6kooDsorCpWVMGc994XjWN",
+      "artistName": "Ram Jam",
+      "songName": "Black Betty",
+      "songDuration": 238973,
+      "trackUri": "spotify:track:6kooDsorCpWVMGc994XjWN",
+      "id": 59
+    },
+    {
+      "playlistId": 1,
+      "songId": "5ZBeML7Lf3FMEVviTyvi8l",
+      "artistName": "The Beatles",
+      "songName": "Twist And Shout - Remastered 2009",
+      "songDuration": 155226,
+      "trackUri": "spotify:track:5ZBeML7Lf3FMEVviTyvi8l",
+      "id": 60
+    },
+    {
+      "playlistId": 1,
+      "songId": "745H5CctFr12Mo7cqa1BMH",
+      "artistName": "The Temptations",
+      "songName": "My Girl",
+      "songDuration": 165000,
+      "trackUri": "spotify:track:745H5CctFr12Mo7cqa1BMH",
+      "id": 61
+    },
+    {
+      "playlistId": 1,
+      "songId": "57JVGBtBLCfHw2muk5416J",
+      "artistName": "Queen",
+      "songName": "Another One Bites The Dust - Remastered 2011",
+      "songDuration": 214653,
+      "trackUri": "spotify:track:57JVGBtBLCfHw2muk5416J",
+      "id": 62
+    },
+    {
+      "playlistId": 2,
+      "songId": "2Cdvbe2G4hZsnhNMKyGrie",
+      "artistName": "Joan Jett & the Blackhearts",
+      "songName": "I Love Rock 'N Roll",
+      "songDuration": 175173,
+      "trackUri": "spotify:track:2Cdvbe2G4hZsnhNMKyGrie",
+      "id": 66
+    },
+    {
+      "playlistId": 2,
+      "songId": "3lN8PP6R2IxbLP05QpYXng",
+      "artistName": "Steppenwolf",
+      "songName": "Born To Be Wild - Single Version",
+      "songDuration": 212893,
+      "trackUri": "spotify:track:3lN8PP6R2IxbLP05QpYXng",
+      "id": 67
+    },
+    {
+      "playlistId": 2,
+      "songId": "0wJoRiX5K5BxlqZTolB2LD",
+      "artistName": "Jimi Hendrix",
+      "songName": "Purple Haze",
+      "songDuration": 170813,
+      "trackUri": "spotify:track:0wJoRiX5K5BxlqZTolB2LD",
+      "id": 68
+    },
+    {
+      "playlistId": 2,
+      "songId": "2zYzyRzz6pRmhPzyfMEC8s",
+      "artistName": "AC/DC",
+      "songName": "Highway to Hell",
+      "songDuration": 208400,
+      "trackUri": "spotify:track:2zYzyRzz6pRmhPzyfMEC8s",
+      "id": 69
+    },
+    {
+      "playlistId": 3,
+      "songId": "0mHyWYXmmCB9iQyK18m3FQ",
+      "artistName": "Lionel Richie",
+      "songName": "Hello",
+      "songDuration": 251106,
+      "trackUri": "spotify:track:0mHyWYXmmCB9iQyK18m3FQ",
+      "id": 70
+    },
+    {
+      "playlistId": 3,
+      "songId": "3fqwjXwUGN6vbzIwvyFMhx",
+      "artistName": "Chris Stapleton",
+      "songName": "Tennessee Whiskey",
+      "songDuration": 293293,
+      "trackUri": "spotify:track:3fqwjXwUGN6vbzIwvyFMhx",
+      "id": 71
+    },
+    {
+      "playlistId": 3,
+      "songId": "3GJ4hzg4lrGwU51Y3VARbF",
+      "artistName": "Dan + Shay",
+      "songName": "Speechless",
+      "songDuration": 213386,
+      "trackUri": "spotify:track:3GJ4hzg4lrGwU51Y3VARbF",
+      "id": 72
+    },
+    {
+      "playlistId": 3,
+      "songId": "7BqBn9nzAq8spo5e7cZ0dJ",
+      "artistName": "Bruno Mars",
+      "songName": "Just the Way You Are",
+      "songDuration": 220734,
+      "trackUri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ",
+      "id": 73
+    },
+    {
+      "playlistId": 3,
+      "songId": "3U4isOIWM3VvDubwSI3y7a",
+      "artistName": "John Legend",
+      "songName": "All of Me",
+      "songDuration": 269560,
+      "trackUri": "spotify:track:3U4isOIWM3VvDubwSI3y7a",
+      "id": 74
+    },
+    {
+      "playlistId": 2,
+      "songId": "6kooDsorCpWVMGc994XjWN",
+      "artistName": "Ram Jam",
+      "songName": "Black Betty",
+      "songDuration": 238973,
+      "trackUri": "spotify:track:6kooDsorCpWVMGc994XjWN",
+      "id": 75
+    },
+    {
+      "playlistId": 4,
+      "songId": "0RjQR5QfKREKE9wQki8spV",
+      "artistName": "Sid Sriram",
+      "songName": "Kalaavathi (From \"Sarkaru Vaari Paata\")",
+      "songDuration": 242322,
+      "trackUri": "spotify:track:0RjQR5QfKREKE9wQki8spV",
+      "id": 76
+    },
+    {
+      "playlistId": 4,
+      "songId": "4dkmHvklfrZFWruTrHjbcq",
+      "artistName": "Asha Bhosle",
+      "songName": "Reshmi Salwar Kurta Jali Ka (Trap Mix)",
+      "songDuration": 147000,
+      "trackUri": "spotify:track:4dkmHvklfrZFWruTrHjbcq",
+      "id": 77
+    },
+    {
+      "playlistId": 4,
+      "songId": "5DJHFCqWn9hrirPvWRvLU4",
+      "artistName": "Meghna Mishra",
+      "songName": "Nachdi Phira",
+      "songDuration": 255215,
+      "trackUri": "spotify:track:5DJHFCqWn9hrirPvWRvLU4",
+      "id": 78
+    },
+    {
+      "playlistId": 4,
+      "songId": "7LJVga93KYm9mqrxrHd2Bj",
+      "artistName": "Dj Raahul Pai",
+      "songName": "Nonstop Party Mix 2021 Mashup",
+      "songDuration": 271250,
+      "trackUri": "spotify:track:7LJVga93KYm9mqrxrHd2Bj",
+      "id": 79
+    },
+    {
+      "playlistId": 8,
+      "songId": "7L6ZDYK13nVfc6j3QlKNJj",
+      "artistName": "Riva Starr",
+      "songName": "This Is The Sound",
+      "songDuration": 192401,
+      "trackUri": "spotify:track:7L6ZDYK13nVfc6j3QlKNJj",
+      "id": 80
+    },
+    {
+      "playlistId": 8,
+      "songId": "0uoaYBn3prfGyWQR59wkeQ",
+      "artistName": "The Blessed Madonna",
+      "songName": "We Still Believe",
+      "songDuration": 230445,
+      "trackUri": "spotify:track:0uoaYBn3prfGyWQR59wkeQ",
+      "id": 81
+    },
+    {
+      "playlistId": 8,
+      "songId": "4l8YHDorwOW8xeczmSfn0a",
+      "artistName": "Dombresky",
+      "songName": "Do You Remember",
+      "songDuration": 206000,
+      "trackUri": "spotify:track:4l8YHDorwOW8xeczmSfn0a",
+      "id": 82
+    },
+    {
+      "playlistId": 1,
+      "songId": "13Mzsb8VzRSZ5w3pM48cn6",
+      "artistName": "The Spinners",
+      "songName": "The Rubberband Man",
+      "songDuration": 213000,
+      "trackUri": "spotify:track:13Mzsb8VzRSZ5w3pM48cn6",
+      "id": 83
+    },
+    {
+      "playlistId": 9,
+      "songId": "6SL03KQzLNrxyO6AfIBe7y",
+      "artistName": "Coco Jones",
+      "songName": "Spotify Singles",
+      "songDuration": 283313,
+      "trackUri": "spotify:album:6SL03KQzLNrxyO6AfIBe7y",
+      "id": 84
+    },
+    {
+      "playlistId": 9,
+      "songId": "3prGIrHZxBcBzeZOAdE6xI",
+      "artistName": "Skrillex",
+      "songName": "Warped Tour ’05 with pete WENTZ",
+      "songDuration": 48000,
+      "trackUri": "spotify:track:3prGIrHZxBcBzeZOAdE6xI",
+      "id": 85
+    },
+    {
+      "playlistId": 9,
+      "songId": "0uoaYBn3prfGyWQR59wkeQ",
+      "artistName": "The Blessed Madonna",
+      "songName": "We Still Believe",
+      "songDuration": 230445,
+      "trackUri": "spotify:track:0uoaYBn3prfGyWQR59wkeQ",
+      "id": 86
+    },
+    {
+      "playlistId": 9,
+      "songId": "0O45fw2L5vsWpdsOdXwNAR",
+      "artistName": "Justin Timberlake",
+      "songName": "SexyBack (feat. Timbaland)",
+      "songDuration": 242733,
+      "trackUri": "spotify:track:0O45fw2L5vsWpdsOdXwNAR",
+      "id": 87
+    }
+  ],
+  "selectedTrack": [
+    {
+      "id": 1,
+      "selectedUri": "spotify:track:6FB3v4YcR57y4tXFcdxI1E"
+    },
+    {
+      "id": 2,
+      "selectedUri": "spotify:track:5MYFw4T2gy52pOGBN4EYHS"
+    }
+  ]
+}
